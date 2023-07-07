@@ -48,3 +48,12 @@
     visibility: visible;
     bottom: 5rem;
 }
+
+.pet__projects-link{
+    font-size: var(--small-font-size);
+    color: var(--text-color);
+}
+
+.pet__projects-link:hover{
+    color: var(--text-color-light);
+}
